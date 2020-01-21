@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="5477" started-at="2020-01-20T22:17:16Z" finished-at="2020-01-20T22:17:22Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="5477" started-at="2020-01-20T22:17:16Z" finished-at="2020-01-20T22:17:22Z">
+      <class name="CICD_Package.CICD_Story2">
+        <test-method status="PASS" signature="f()[pri:0, instance:CICD_Package.CICD_Story2@7bb11784]" name="f" duration-ms="1" started-at="2020-01-20T17:17:22Z" finished-at="2020-01-20T17:17:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- CICD_Package.CICD_Story2 -->
+      <class name="CICD_Package.CICD_Story1">
+        <test-method status="PASS" signature="Launch()[pri:0, instance:CICD_Package.CICD_Story1@5474c6c]" name="Launch" duration-ms="5464" started-at="2020-01-20T17:17:16Z" finished-at="2020-01-20T17:17:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Launch -->
+      </class> <!-- CICD_Package.CICD_Story1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
