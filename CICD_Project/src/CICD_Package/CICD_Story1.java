@@ -28,7 +28,7 @@ public class CICD_Story1 {
 	ChromeOptions options=new ChromeOptions();
 	options.addArguments("--headless");
 	WebDriver driver=new ChromeDriver(options);
-	//Launch Browser
+	//Launch Browsers
 	    String expectedtitle="Google";
 		driver.get("http://www.google.com");
 		String actualtitle=driver.getTitle();
